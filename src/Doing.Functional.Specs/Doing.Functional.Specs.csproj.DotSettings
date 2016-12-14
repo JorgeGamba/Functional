@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/CodeInspection/CodeAnnotations/NamespacesWithAnnotations/=Machine_002ESpecifications_002EAnnotations/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/DEFAULT_PRIVATE_MODIFIER/@EntryValue">Implicit</s:String>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/PredefinedNamingRules/=PrivateInstanceFields/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="_" Suffix="" Style="aaBb"&gt;&lt;ExtraRule Prefix="" Suffix="" Style="aaBb" /&gt;&lt;/Policy&gt;</s:String>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/UserRules/=52b619ac_002D57cc_002D4145_002Da1b2_002Dd46f55006ad2/@EntryIndexedValue">&lt;Policy&gt;&lt;Descriptor Staticness="Static, Instance" AccessRightKinds="Private, Protected, ProtectedInternal, Internal, Public" Description="MSpec delegates"&gt;&lt;ElementKinds&gt;&lt;Kind Name="Machine.Specifications_SupportingField" /&gt;&lt;/ElementKinds&gt;&lt;/Descriptor&gt;&lt;Policy Inspect="True" Prefix="" Suffix="" Style="aaBb" /&gt;&lt;/Policy&gt;</s:String>
+	<s:Boolean x:Key="/Default/CoverageSessionsPersistenceManagerSettings/SessionPersistentData/=5AE3911BEF7F45698381FDC2A555E39A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/CoverageSessionsPersistenceManagerSettings/SessionPersistentData/=5AE3911BEF7F45698381FDC2A555E39A/ProductVersion/@EntryValue">2016.1.1</s:String>
+	<s:String x:Key="/Default/CoverageSessionsPersistenceManagerSettings/SessionPersistentData/=5AE3911BEF7F45698381FDC2A555E39A/SnapshotLocation/@EntryValue">C:\Users\JorgeGamba\AppData\Local\Temp\ssm.Licemyn.tmp</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="Y:\dev\Equitel\LAP\src\app\MicroServices\Lap.PD\bin\Debug\Lap.PD.dll" /&gt;&#xD;
+  &lt;Assembly Path="Y:\dev\Equitel\LAP\src\app\MicroServices\Lap.Mix\bin\Debug\Lap.Mix.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /&gt;&#xD;
+  &lt;Assembly Path="Y:\dev\Equitel\common\src\app\Equitel.Common.Security\bin\Release\Equitel.Common.Security.dll" /&gt;&#xD;
+  &lt;Assembly Path="Y:\dev\Equitel\LAP\src\app\Core\Lap.Gps\bin\Debug\Lap.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="\\psf\Home\dev\Equitel\LAP\src\app\DBProviders\Lap.Redshift\bin\Debug\Lap.Redshift.dll" /&gt;&#xD;
+  &lt;Assembly Path="Y:\dev\Equitel\LAP\src\app\Api\Lap.Logistics.PD.Api\bin\Lap.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="Y:\dev\Equitel\LAP\src\app\Core\Lap.Mix\bin\Debug\Lap.Mix.dll" /&gt;&#xD;
+  &lt;Assembly Path="Y:\dev\Equitel\LAP\src\spec\Artimo\Artimo.Specs\bin\Debug\Artimo.Specs.dll" /&gt;&#xD;
+  &lt;Assembly Path="Y:\dev\Equitel\LAP\src\app\DBProviders\Lap.Mongo\bin\Debug\Lap.Mongo.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
